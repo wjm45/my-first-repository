@@ -1,3 +1,3 @@
 # my-first-repository
 
-dnxklskdfn
+github training session
